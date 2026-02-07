@@ -1,5 +1,5 @@
 # OOPProgramming_Lab1_KanePaulMari
-Activity made for Sir Jamie Eduardo Rosal.
+Activity made for Sir Jamie Eduardo Rosal. Made by Kane Paul A. Mari BSCpE - 1.
 
 ## Class responsibilities: 
 MathematicalOperations ( Base Class ) - This acts as the foundation of the library, responsible for storing the operands and numbers required for computation.
